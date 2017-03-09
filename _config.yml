@@ -1,8 +1,8 @@
 # Basic
 title: WY's Experience
 subtitle: 保持饥饿感和危机感
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 一枚偶尔开黄腔的老年程序猿，目前就职于点我达，致力于把点我达iOS团队培养成为史上口味最重、最无下限的iOS Team
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: 一枚偶尔开黄腔的老年程序猿，编程小学生，目前就职于点我达，致力于把点我达iOS团队培养成为史上口味最重、最无下限的iOS团队
 creator: <a href="https://github.com/chrisllllll">@chrisllllll</a>
 
 url: "http://seniormigraine.com/"
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: seniormigraine
     # duoshuo: 
     
 # Social
